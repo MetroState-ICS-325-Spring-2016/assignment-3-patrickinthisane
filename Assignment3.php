@@ -14,7 +14,8 @@ $db_username = 'root';
 // not set a password for the root user.  If you are in the database
 // class and installed MySQL separatly from XAMPP, you may have a
 // password set.  If that is the case, set it here.
-$db_password = 'BOEing747*';
+//I removed my password as I use it frequently. Tested and works though.
+$db_password = '';
 
 // Typically you want to specify what database to use.
 // For this PHP script, we will use the `classicmodels` database.
